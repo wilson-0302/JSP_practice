@@ -3,6 +3,7 @@ target/*
 !**/src/main/**/target/
 !**/src/test/**/target/
 !target/JSP_project-1.0-SNAPSHOT.war
+!target/ROOT.war
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
